@@ -1,3 +1,8 @@
+# Equipe :man_technologist:	
+1. Bianca Rodrigues
+2. Ricardo de Magalhães Simões
+3. Gabriel Guimarães
+
 # Prof Ricardo de Magalhães Simões
 
 Este arquivo funciona como um documento de "apresentação" do projeto.
